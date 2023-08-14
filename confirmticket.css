@@ -1,0 +1,37 @@
+*
+{
+margin:0;
+padding:0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ticketbody
+{
+width:25%;
+height:40%;
+border:5px solid white;
+background-color:rgba(0, 0, 0, 0.566) ;
+margin-top:3%;
+float:left;
+text-transform: uppercase;
+color:red;
+font-size:20px ;
+
+}
+
+#ticketbody input[type="submit"]
+{
+    margin-top:2%;
+    height:10%;
+    width:20%;
+    background-color: red;
+cursor: pointer;
+}
+#ticketbody input[type="submit"]:hover
+{
+border-radius:21px;
+}
+label
+{
+    margin-left:10%;
+    color:white;
+}

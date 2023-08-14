@@ -1,0 +1,49 @@
+#addroutepanel
+{
+    position:fixed;
+    width:25%;
+    height:75%;
+    background-color: aquamarine;
+
+    display:none;
+    margin-left: 40%;
+    text-align:center;
+
+}
+#addroutepanel input[type="text"]
+{
+   
+    width:45%;
+    height:6%;
+    border-radius:0px;
+}
+#addroutepanel input[type="text"]:hover {border-radius:12px;}
+#addroutepanel input[type="submit"]
+{
+
+width:15%;
+height:7%;
+background-color: #448aff;
+border-radius:12px;
+cursor:pointer;
+}
+#addroutepanel input[type="submit"]:hover {background-color: green;}
+#addroutepanel input[type="button"]
+{
+margin-left: 97%;
+height:5%;
+width:3%;
+border-radius: none;
+}
+#addroutepanel input[type="button"]:hover
+{
+    border-radius:12px;
+}
+#addroutepanel input[type="number"]
+{
+   
+    width:45%;
+    height:6%;
+    border-radius:0px;
+}
+#addroutepanel input[type="number"]:hover {border-radius:12px;}

@@ -1,0 +1,65 @@
+*
+{
+margin:0;
+padding:0;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#userindex
+{
+    width:50%;
+    height:5%;
+    background-color: aqua;
+    margin-top:5%;
+   text-transform: uppercase;
+   color:antiquewhite;
+}
+.userdiv
+{
+    width:25%;
+    height:100%;
+   background-color: red;
+   float:left;
+  
+}
+.emaildiv
+{
+    width:35%;
+    height:100%;
+   background-color: black;
+   float:left;
+
+
+}
+.passworddiv
+{
+    width:25%;
+    height:100%;
+   background-color:green;
+ float:left;
+
+}
+.deletediv
+{
+    width:15%;
+    height:100%;
+   background-color:rgb(32, 0, 128);
+ float:left;
+
+}
+.user1index
+{
+    width:50%;
+    height:5%;
+    background-color: aqua;
+    margin-top:1%;
+   text-transform: uppercase;
+   color:antiquewhite;
+}
+.deletebtndiv
+{
+    width:7.5%;
+    height:100%;
+   background-color:rgb(32, 0, 128);
+ float:left;
+
+}
